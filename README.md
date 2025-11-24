@@ -1,6 +1,6 @@
 # 🚀 Minimal API em .NET com JWT, MySQL e Testes Automatizados
 
-Este projeto foi desenvolvido no **bootcamp da DIO "Avanade - Back-end com .NET e IA"** e consiste em uma **Minimal API em .NET**, utilizando:
+Este projeto foi desenvolvido seguindo templates e aulas do Professor **Danilo Aparecido** no **bootcamp da DIO "Avanade - Back-end com .NET e IA"** e consiste em uma **Minimal API em .NET**, utilizando:
 
 - **Autenticação JWT**
 - **Entity Framework Core + MySQL**
